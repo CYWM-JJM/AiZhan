@@ -49,13 +49,13 @@ E:\self_tools\AiZhan>AiZhan.exe -u baidu.com
 [2024-11-01 18:27:56] [Info] > 域名: baidu.com 查询完成(20241101182756.csv)
 ```
 
-![image-20241101183626260](.\image\image-20241101183626260.png)
+![image-20241101183626260](https://github.com/CYWM-JJM/AiZhan/blob/master/image/image-20241101183626260.png)
 
 #### 批量域名查询
 
 创建一个文件存放域名。
 
-![image-20241101183943123](.\image\image-20241101183943123.png)
+![image-20241101183943123](https://github.com/CYWM-JJM/AiZhan/blob/master/image/image-20241101183943123.png)
 
 ```
 E:\self_tools\AiZhan>AiZhan.exe -f ./domains.txt
@@ -64,8 +64,8 @@ Processing items: 100%|███████████████████
 [2024-11-01 18:40:27] [Info] > 终于查完了！！
 ```
 
-![image-20241101184140275](.\image\image-20241101184140275.png)
+![image-20241101184140275](https://github.com/CYWM-JJM/AiZhan/blob/master/image/image-20241101184140275.png)
 
 #### 执行结果
 
-![image-20241101184251560](.\image\image-20241101184251560.png)
+![image-20241101184251560](https://github.com/CYWM-JJM/AiZhan/blob/master/image/image-20241101184251560.png)
